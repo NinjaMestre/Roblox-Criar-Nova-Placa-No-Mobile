@@ -4,7 +4,7 @@ universe_id = 0
 cookie = ""
 api_key = ""
 
-csrf_request = request = requests.post(f"https://apis.roblox.com/universes/v1/user/universes/{universe_id}/places", headers={
+csrf_request = requests.post(f"https://apis.roblox.com/universes/v1/user/universes/{universe_id}/places", headers={
     "x-api-key": api_key,
     "Content-Type": "application/json"
 }, json={
@@ -30,3 +30,4 @@ request = requests.post(f"https://apis.roblox.com/universes/v1/user/universes/{u
 })
 
 print(request.status_code, request.text, request.headers)
+
