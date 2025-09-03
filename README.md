@@ -8,7 +8,7 @@ O Roblox possui uma API chamada Open Cloud que permite que o usuário interaja c
 ## 1. Chave 🔑
 Crie a chave
 
-1. Vá para https://create.roblox.com/dashboard/credentials
+1. Vá para a página do criador, na página de criar chaves API (https://create.roblox.com/dashboard/credentials)
 2. Clique em "Criar chave API"
 3. <sub>Obrigatório</sub> Adicione um nome a sua chave
 4. <sub>Opcional</sub> Adicione uma descrição a sua chave
