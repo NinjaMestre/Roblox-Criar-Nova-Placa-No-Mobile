@@ -59,4 +59,4 @@ Crie a chave
 15. Digite "python (caminho para o arquivo criar_place.py modificado)"
 
 # Finalização
-Se tudo tiver dado certo, uma nova place chamada "(SEU NOME USUÁRIO)'s Place: (ID da Place)" deve aparecer nas places do seu jogo
+Se tudo tiver dado certo, uma nova place chamada "(SEU NOME USUÁRIO)'s Place: (ID da Place)" deve ser criada nas places do seu jogo
