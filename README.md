@@ -42,4 +42,21 @@ Crie a chave
 20. <sub>Opcional</sub> ⚠ Anote o cookie em algum lugar, você precisará dele
 
 ## 3. API 🤝
-1. Faça download
+1. Abra a página do criador novamente (https://create.roblox.com/)
+2. Abra o jogo no qual você quer adicionar a place
+3. No URL https://create.roblox.com/dashboard/creations/experiences/ID_DO_UNIVERSO/overview copie o id do universo
+4. <sub>Opcional</sub> ⚠ Anote o id do universo em algum lugar, você precisará dele
+5. Faça download do arquivo criar_place.py
+6. Abra o arquivo no seu editor de texto preferido
+7. Na linha "universe_id = 0", substitua o 0 pelo id do universo
+8. Na linha "cookie = """, coloque o seu cookie .ROBLOSECURITY entre as aspas
+9. Na linha "api_key = """, coloque a sua chave API entre as aspas
+10. Salve as alterações
+11. Use sua IDE Python de preferência para executar o código, mas aqui vou ensinar com o Termux
+12. Instale o Termux (https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR)
+13. Abra o Termux
+14. Digite "pkg install python" para instalar o Python
+15. Digite "python (caminho para o arquivo criar_place.py modificado)"
+
+# Finalização
+Se tudo tiver dado certo, uma nova place chamada "(SEU NOME USUÁRIO)'s Place: (ID da Place)" deve aparecer nas places do seu jogo
