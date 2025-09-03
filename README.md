@@ -20,7 +20,7 @@ Crie a chave
 ## 2. Cookie 🍪
 É necessário usar seu cookie de segurança para utilizar a API. O cookie é importante, mas você não vai compartilhar ele, você vai usar ele na API oficial do Roblox. O script que você vai usar está aqui (você pode lê-lo) e não disponibilizei nenhum executável para não ter risco de compilar um código diferente.
 
-1. Baixe o Firefox pela PlayStore (https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=pt_BR)
+1. Baixe o Firefox pela Play Store (https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=pt_BR)
 2. Após as configurações iniciais, clique nos três pontos no canto da tela
 3. Clique em "Extensões"
 4. Desça a lista até o final
